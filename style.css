@@ -284,7 +284,7 @@ body {
 .second a {
     position: relative;
     border-radius: 3px;
-    padding: 13px 14px 13px 13px;
+    padding: 13px 25px 13px 25px;
     width: 240px;
     border: 1px solid;
     border-color: hsla(0, 0%, 100%, 0.06);
