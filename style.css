@@ -242,7 +242,8 @@ body {
 }
 
 .disp{
-    font-size:29px;
+    font-size:30px;
+    text-shadow: -2px 1px 1px purple;
 }
 
 @media(max-width: 960px) {
